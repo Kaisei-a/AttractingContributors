@@ -6,3 +6,4 @@
 - Adidas 4D
 - New Balance WL574Z
 - New Balance 990 v5
+- Air Jordan
